@@ -1,0 +1,10 @@
+﻿global using Microsoft.AspNetCore.Authentication.JwtBearer;
+global using Microsoft.AspNetCore.Identity;
+global using Microsoft.IdentityModel.Tokens;
+global using Microsoft.OpenApi.Models;
+global using System.Text;
+global using TechnologyCenter.Web.Data;
+global using TechnologyCenter.Services.Services;
+global using TechnologyCenter.Services.Models;
+global using Microsoft.EntityFrameworkCore;
+global using TechnologyCenter.Web.Models;
